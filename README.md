@@ -79,27 +79,33 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. - 2.2. Acid/Health Pickups
  I wanted to introduce the movable box as a platform in the acid fairly early in the level, so that's why the acid is the first encounter. Since the acid is the first hazard the player encounters, it made sense to give them the health pickup in the same sequence.
 
-
+![Storyboard: Acid and health pickup](DocImages/)
 
 ### 2.3. - 2.5. Checkpoints/Spikes/Passthrough Platforms
 Since this area includes the first acid pit after the beginning of the level, the checkpoint is introduced here. Spikes are used to increase the difficulty, since the player should have a basic understanding of the controls by now, and the passthrough platform is used for the player to access the top area easily.
 
+![Storyboard: Checkpoint, spikes and passthrough platforms 1](DocImages/)
+![Storyboard: Checkpoint, spikes and passthrough platforms 2](DocImages/)
 
 ### 2.6. - 2.7. Chompers/Weapon Pickup (Staff)
 The staff is given to the player at the same time as they encounter the first chomper, which is introduced here as an isolated confrontation, as well as encouraging the player to experiment with the staff.
 
+![Storyboard: Chomper and Staff pickup](DocImages/)
 
 ### 2.8. - 2.9. Weapon Pickup (Gun)/ Spitters
 The gun is introduced close to the end of the first section, along with the spitter. As with the staff and the chomper, the spitter encourages the player to experiment with the gun, as well as providing an isolated first encounter with the enemy.
 
+![Storyboard: Spitter and gun pickup](DocImages/)
+
 ### 2.10. Keys/ Single Use Switch/ Trigger Door
 The first key is given at the end of the first segment. This section is immediately after the spitter encounter, and shows the player how to toggle the switch, as well as introducing the trigger door, which is used throughout the level constantly. 
+
+![Storyboard: key, with single use switch and trigger door sequence included](DocImages/)
 
 ### 2.11. Moving Platforms
 This section of the level is fairly vertical, so the moving platform here is used to provide a safe way down without the player feeling like they have to take a leap of faith, as well as providing a simple introduction to the mechanics of the platform.
 
-
-
+![Storyboard: moving platform](DocImages/)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -108,19 +114,19 @@ No additional words are necessary for this section (any words should only be wit
  
 ### 3.1. Molecule Diagram
 
-![Molecule Diagram]()
+![Molecule Diagram](DocImages/)
 
 ### 3.2. Level Map – Section 1
 
-![Section 1]()
+![Section 1](DocImages/)
 
 ### 3.3.	Level Map – Section 2
 
-![Section 2]()
+![Section 2](DocImages/)
 
 ### 3.4.	Level Map – Section 3
 
-![Section 3]()
+![Section 3](DocImages/)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
