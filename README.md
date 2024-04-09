@@ -85,8 +85,8 @@ You should restructure the headings below to match the order they appear in your
 ### 2.3. - 2.5. Checkpoints/Spikes/Passthrough Platforms
 Since this area includes the first acid pit after the beginning of the level, the checkpoint is introduced here. Spikes are used to increase the difficulty, since the player should have a basic understanding of the controls by now, and the passthrough platform is used for the player to access the top area easily.
 
-![Storyboard: Checkpoint, spikes and passthrough platforms 1](DocImages/CheckpointPassthroughPlatformAndSpikes1.jpg)
-![Storyboard: Checkpoint, spikes and passthrough platforms 2](DocImages/CheckpointPassthroughPlatformAndSpikes2.jpg)
+![Storyboard: Checkpoint, spikes and passthrough platforms 1](DocImages/floatingBoxSequence1.jpg)
+![Storyboard: Checkpoint, spikes and passthrough platforms 2](DocImages/floatingBoxSequence2.jpg)
 
 ### 2.6. - 2.7. Chompers/Weapon Pickup (Staff)
 The staff is given to the player at the same time as they encounter the first chomper, which is introduced here as an isolated confrontation, as well as encouraging the player to experiment with the staff.
