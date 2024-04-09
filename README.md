@@ -5,7 +5,6 @@
 
 ## 1. Player Experience (~700 words)
 
-
 ### 1.1. Discovery
 
 The design of this level is focused around the idea of a puzzle game, mainly based on the movable box object. The player is learning about how to use this item in correlation with the other items all throughout the level, after its initial introduction in section 1.
@@ -31,7 +30,7 @@ The second section involves a more complex platforming sequence than the other s
 
 ![Section 2: spikes](DocImages/PlatformAndSpikes.png)
 
- After section 2, there is a moment of relief, and after that the drama is more focused on the puzzle elements of the game rather than the platforming. The intensity in section 3 ramps up with three puzzles, Each one being more complex than the last, starting with more of a demonstration and ending with a fairly complex puzzle. After this, the drama dies down, as the player approaches the end of the level.
+ After section 2, there is a moment of relief, and after that the drama is more focused on the puzzle elements of the game rather than the platforming. The intensity in section 3 ramps up with three puzzles, Each one being more involved than the last, starting with more of a demonstration and ending with a fairly complex puzzle. After this, the drama dies down, as the player approaches the end of the level.
 
 ### 1.3. Challenge
 
@@ -39,7 +38,7 @@ The main challenges of this level are intellectual, with some physical challenge
 
 ![Section 2: spitters](DocImages/Spitters.png)
 
- The third area is primarily focused on the puzzle of unlocking each door. This starts simple, with a demonstration of how the boxes impact the trigger doors, and ramps up to a fairly complex puzzle at the end of this section. The puzzle requires the player to think outside the box: The final solution requires them to extrapolate from the system to move the box up onto a platform, using a trigger door as an elevator, before being able to move the final box into place to unlock the last door.
+ The third area is primarily focused on the puzzle of unlocking each door. This starts simple, with a demonstration of how the boxes impact the trigger doors, and ramps up to a fairly complex puzzle at the end of this section. The puzzle requires the player to think outside the box: The final solution needing them to extrapolate from the system to move the box up onto a platform, using a trigger door as an elevator, before being able to move the final box into place to unlock the last door.
 
 ![Section 3: third puzzle](DocImages/FinalPuzzle3.png)
 
@@ -73,7 +72,7 @@ The staff is given to the player at the same time as they encounter the first ch
 ![Storyboard: Chomper and Staff pickup](DocImages/staffAndChomper.jpg)
 
 ### 2.8. - 2.9. Weapon Pickup (Gun)/ Spitters
-The gun is introduced close to the end of the first section, along with the spitter. As with the staff and the chomper, the spitter encourages the player to experiment with the gun, as well as providing an isolated first encounter with the enemy. Since the player is given a ranged attack as soon as interacting with a ranged attacking enemy, they should feel that they are evenly matched with the enemy, rather than having to attack with the staff, which would mean they have to get in close, as opposed to the enemy being able to attack from a distance.
+The gun is introduced close to the end of the first section, along with the spitter. As with the staff and the chomper, the spitter encourages the player to experiment with the gun, as well as providing an isolated first encounter with the enemy. Since the player is given a ranged attack as soon as interacting with a ranged attacking enemy, they should feel that they are evenly matched with the enemy, rather than having to attack with the staff, which would mean they have to get in close, while the enemy is able to attack from a distance.
 
 ![Storyboard: Spitter and gun pickup](DocImages/gunAndSpitter.jpg)
 
@@ -88,9 +87,6 @@ This section of the level is fairly vertical, so the moving platform here is use
 ![Storyboard: moving platform](DocImages/movingPlatform.jpg)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
@@ -109,9 +105,6 @@ No additional words are necessary for this section (any words should only be wit
 ![Section 3](DocImages/Section3.jpg)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
-
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 This is where my level design could be somewhat lacking, as I did not primarily work with an iterative design format. I did start out by planning out the original structure, up until about section 2.
 
@@ -121,26 +114,12 @@ After this point, I mostly improvised, or worked with a plan I had in mind, but 
 
 I also had a couple of playtesters test the game. I changed a few mechanics in the level according to their feedback. For instance, An earlier version of the game had the box in section 2, which had been used to unlock the door to the second key, being pushed down the hole leading out of section two onto another pressure pad, which unlocked the door into the third section instead of the switch behind the section two door. The switch instead unlocked a bridge door which blocked the hole. The first playtester said this was rather confusing, as it wasn't obvious that the bridge had moved, and once the box was on the first pressure pad, his assumption was that it shouldn't be moved after that. After this, the area was changed to be simpler and easier to follow.
 
-I think that there is a lot which could be improved with this level, if I were to continue to work on it using iterative design. First of all, given my lack of iterative design, the level has a general slapped-together look to it, where it may have a more natural looking appearance if I had planned better rather than improvising. Most of all, the final puzzle possibly needs review: Since the solution requires the player to use the trigger door to push the box up onto the platform, a mechanic which is not introduced previously, I would have liked to have this playtested more thoroughly to find out if the puzzle is best left alone, or if there needs to be a hint to this solution, or an earlier introduction to the mechanic.  
+I think that there is a lot which could be improved with this level, if I were to continue to work on it using iterative design. First of all, given my lack of iterative design, the level has a general slapped-together look to it, where it may have a more natural and clean layout if I had planned better rather than improvising.
+
+ Most of all, the final puzzle possibly needs review: Since the solution requires the player to use the trigger door to push the box up onto the platform, a mechanic which is not introduced previously, I would have liked to have this playtested more thoroughly to find out if the puzzle is best left alone, or if there needs to be a hint to this solution, or an earlier introduction to the mechanic.  
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
+None used.
 
 

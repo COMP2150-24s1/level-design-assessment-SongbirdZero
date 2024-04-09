@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level Design.unity
+    path: Assets/Scenes/Level Design Scene.unity
     guid: 26dfaab476091ba4b8089ef9cbe1c09a
   - enabled: 1
     path: Assets/Scenes/End Of Game.unity
@@ -35,9 +35,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
-  - enabled: 1
-    path: 
-    guid: e56ce2b653ce7724b9242b54fd8ef1f8
   - enabled: 1
     path: Assets/Scenes/Level Design_2.unity
     guid: 2dfc131aa4962034482213c560ee00fb
